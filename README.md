@@ -1,4 +1,4 @@
-![Banner](./assets/images/github-profile-image.webp)
+![Banner](/assets/images/github-profile-image.webp)
 # ABBY HUMPHREYS
 ## Software Developer<hr>
 ### About Me
