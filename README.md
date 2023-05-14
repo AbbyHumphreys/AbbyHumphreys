@@ -3,7 +3,7 @@
 ## Software Developer<hr>
 ### About Me
 Hi! I'm Abby, I'm a junior software developer in North Wales. I'm currently studying for a Level 5 Diploma in Web Development with Code Institute. 
-- :brain: I am currently working on project 2 of 4 with Code Institute
+- :brain: I am currently working on project 3 of 4 with Code Institute
 - :sparkling_heart: I love learning and problem solving which is why I find coding so interesting andd satisfying
 - :family: In my spare time, I love spending time with the hubby and my kids
 
